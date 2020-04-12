@@ -11,7 +11,7 @@ Useful reading material
 # Example output
 
 
-This pdf had 1 image with color: #23c7e3
+[This pdf](https://github.com/KevinColemanInc/pdf-img-to-x_y/blob/master/my-app/pdf-colors.pdf) had 1 image with color: #23c7e3
 
 ```
 Processing page: 1
